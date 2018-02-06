@@ -1,0 +1,9 @@
+{
+  "name": "routering",
+  "version": "0.1",
+  "description": "A javascript router with named routes and translate routes",
+  "main": "index.js",
+  "repository": "git@github.com:amadormf/routering.git",
+  "author": "Amador Mateo ",
+  "license": "MIT"
+}
